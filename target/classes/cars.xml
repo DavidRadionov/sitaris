@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<city name="Minck">
+
+    <carShowroom name="Skoda">
+
+        <car>
+            <model>ACTAVIA2020</model>
+            <color>yellow</color>
+        </car>
+        <car>
+            <model>ACTAVIA2021</model>
+            <color>BLACK</color>
+        </car>
+
+        <car>
+            <model>RAPID2021</model>
+            <color>WHITE</color>
+        </car>
+        <car>
+        <model>KODIAQ2021</model>
+        <color>GREEN</color>
+        </car>
+
+    </carShowroom>
+
+    <carShowroom name = "MERCEDES">
+        <car>
+            <model>GLC</model>
+            <color>yellow</color>
+        </car>
+        <car>
+            <model>c200</model>
+            <color>BLACK</color>
+        </car>
+
+        <car>
+            <model>AMG</model>
+            <color>WHITE</color>
+        </car>
+        <car>
+            <model>MAYBACH</model>
+            <color>GREEN</color>
+        </car>
+
+        <car>
+            <model>BENZ c-class</model>
+            <color>BLUE</color>
+        </car>
+
+    </carShowroom>
+
+    <carShowroom name="BMW">
+
+        <car>
+            <model>I8</model>
+            <color>yellow</color>
+        </car>
+        <car>
+            <model>e39</model>
+            <color>BLACK</color>
+        </car>
+
+        <car>
+            <model>x5</model>
+            <color>WHITE</color>
+        </car>
+        <car>
+            <model>m5</model>
+            <color>GREEN</color>
+        </car>
+
+        <car>
+            <model>x7</model>
+            <color>BLUE</color>
+        </car>
+
+    </carShowroom>
+</city>
