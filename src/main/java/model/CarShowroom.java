@@ -65,25 +65,25 @@ public class CarShowroom {
     }
 
     public Car findCarForModel(String model) {
-        Car carOutout = null;
+        Car carOutput = null;
         for (Car car : cars) {
             if(car.getModel().equals(model)) {
-                carOutout = car;
+                carOutput = car;
                 break;
             }
         }
-        return carOutout;
+        return carOutput;
     }
 
     public Car findCarForColor(String color) {
-        Car carOutout = new Car();
+        Car carOutput = new Car();
         for (Car car : cars) {
             if(car.getColor().equals(color)) {
-                carOutout = car;
+                carOutput = car;
                 break;
             }
         }
-        return carOutout;
+        return carOutput;
     }
 
 
